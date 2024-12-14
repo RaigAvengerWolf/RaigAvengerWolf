@@ -11,13 +11,13 @@ Soy [Ingeniero Mecatrónica] con [7] años de experiencia en [Manufactura y Dise
 
 ## Experiencia
 
-* **[TIMSA]:** [Ingeniero en Manufactura y diseño] ([Marzo 2018 - Actual]) - [
+**[TIMSA]:** [Ingeniero en Manufactura y diseño] ([Marzo 2018 - Actual]) - [
 * Diseñé planos en CAD y ajusté productos según requerimientos del cliente.
 * Brindé soporte técnico a producción y retroalimentación a ingeniería.
 * Participé en mejoras continuas y aseguré el cumplimiento de estándares.
 * Capacité y lideré equipos, gestionando múltiples proyectos eficientemente.]
     
-* **[General Dynamics NASSCO]:** [Design Engineer] ([Septiembre 2017- Marzo 2018]) - [
+**[General Dynamics NASSCO]:** [Design Engineer] ([Septiembre 2017- Marzo 2018]) - [
 * Elaboré y actualicé planos técnicos para componentes navales.
 * Gestioné tareas cumpliendo calidad, costos y plazos.
 * Presenté información a directivos y clientes, resolviendo dudas.
@@ -27,8 +27,6 @@ Soy [Ingeniero Mecatrónica] con [7] años de experiencia en [Manufactura y Dise
 
 * 📧  [rafael.gonzalez.alfaro@gmail.com]
 * 💼  [[LinkedIn](https://www.linkedin.com/in/rafaelgonzalezalfaro/)]
-
-[Estadísticas de GitHub (opcional)]
 
 ---
 ⭐️ From [Raig]
